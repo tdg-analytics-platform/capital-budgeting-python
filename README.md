@@ -8,3 +8,7 @@ can simple build a template to use in Python.
 In the Python notebook, I lay out a scenario where a business is looking to move from an on premise cluster to cloud. In this example,
 I use Google Cloud and Databricks cost. Please consult with your cloud vendor about any discounts to get accurate data points as well
 as modifying the line items to represent your business.
+
+Also, you are not limited to using a cloud migration process to use this template. Feel free update it as you see fit for whatever your
+organization may be looking into whether it is standing up a new factory, cost savings of data compression, introducing a new widget
+into the market place, etc.
