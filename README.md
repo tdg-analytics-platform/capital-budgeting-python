@@ -12,3 +12,8 @@ as modifying the line items to represent your business.
 Also, you are not limited to using a cloud migration process to use this template. Feel free update it as you see fit for whatever your
 organization may be looking into whether it is standing up a new factory, cost savings of data compression, introducing a new widget
 into the market place, etc.
+
+# Structure
+In this repo, I have a `notebooks` and `html` directory. If you want to peruse the example without launching Python, just open the html
+file locally and review it on your web browser. Once you are ready to play around with the current example or create your own, open the 
+notebook and take it for a spin.
